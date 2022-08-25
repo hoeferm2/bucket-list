@@ -1,0 +1,21 @@
+.listContainer {
+    background-color: black;
+}
+
+.toDoList {
+    background: linear-gradient(gray, orange, gray);
+}
+
+.check {
+    text-decoration: line-through;
+}
+
+.todo {
+    cursor: pointer;
+}
+
+/* nav .drop-down {
+  list-style: none;
+  overflow: hidden;
+  height: 
+} */
